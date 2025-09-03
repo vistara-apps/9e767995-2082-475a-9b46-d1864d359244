@@ -23,7 +23,8 @@
     "autoprefixer": "^10.4.0",
     "openai": "^4.0.0",
     "lucide-react": "^0.263.1",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "pino-pretty": "^10.2.3"
   },
   "devDependencies": {
     "@types/node": "^20",
